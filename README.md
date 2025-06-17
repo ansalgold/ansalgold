@@ -2,7 +2,9 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35px"></picture> **About me**
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="200px"/></p>
+<p>
+  <img align="right" src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" alt="glitch gif" width="200px" />
+</p>
 
 🎓 Statistician & Data Scientist M.Sc.  
 🌍 Passionate about rural development, interculturality & social data  
