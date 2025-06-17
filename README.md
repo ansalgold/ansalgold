@@ -27,7 +27,7 @@
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell/) [![Git Bash](https://img.shields.io/badge/Git%20Bash-black?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
 
 ### 📝 Others I use regularly  
-📊 Excel | 🧠 SPSS | 🗃️ SQL Server & Oracle | 💬 ChatGPT | 📄 LaTeX | ✍️ Markdown  
+📊 Excel | 🧠 SPSS | 🗃️ SQL Server & Oracle | 📄 LaTeX | ✍️ Markdown  
 🌐 PostgreSQL | 🎛️ Jupyter Notebooks | 🧪 Data cleaning & analysis | 📈 Reporting & Dashboards
 
 ---
