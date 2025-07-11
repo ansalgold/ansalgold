@@ -1,6 +1,6 @@
 ### 👋 About Me
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=andres.salgado.1994&redirect=true" target="_blank">
-<img align="right" height="200" src="https://spotify-github-profile.kittinanx.com/api/view?uid=andres.salgado.1994&cover_image=true&theme=default&show_offline=false&background_color=5c3597&interchange=false&bar_color=53b14f&bar_color_cover=true">
+<img align="right" height="200" src="https://spotify-github-profile.kittinanx.com/api/view?uid=andres.salgado.1994&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
 </a>
 
 I’m a dedicated Statistician & Data Scientist (M.Sc.) leading a **multidisciplinary team** in the Statistics area at the **Institute of Intercultural Studies (IEI)**.
