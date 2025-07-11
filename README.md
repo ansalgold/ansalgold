@@ -1,4 +1,9 @@
 ### 👋 About Me
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=andres.salgado.1994&redirect=true" target="_blank">
+<img align="right" height="200" src="https://spotify-github-profile.kittinanx.com/api/view?uid=andres.salgado.1994&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+</a>
+
+
 
 🎓 Statistician & Data Scientist (M.Sc.)  
 🌍 Research focus: rural development, interculturality & social data  
