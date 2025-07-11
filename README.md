@@ -1,42 +1,45 @@
 ### 👋 About Me
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=andres.salgado.1994&redirect=true" target="_blank">
-<img align="right" height="200" src="https://spotify-github-profile.kittinanx.com/api/view?uid=andres.salgado.1994&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+<img align="right" height="200" src="https://spotify-github-profile.kittinanx.com/api/view?uid=andres.salgado.1994&cover_image=true&theme=default&show_offline=false&background_color=5c3597&interchange=false&bar_color=53b14f&bar_color_cover=true">
 </a>
 
+I’m a dedicated Statistician & Data Scientist (M.Sc.) leading a **multidisciplinary team** in the Statistics area at the **Institute of Intercultural Studies (IEI)**.
 
+Currently, I oversee geospatial analysis, interactive dashboards, and ML modeling, working closely with academia, government, and **rural communities**.
 
-🎓 Statistician & Data Scientist (M.Sc.)  
-🌍 Research focus: rural development, interculturality & social data  
-🧭 Co‑founder of **GitJazz**, combining data science with creative expression  
+In 2021, our team at IEI was honored with the **CIDESCO Award for Innovation** for the "Colombia Nos Duele, Javeriana Cali Propone" platform—recognizing our contribution in synthesizing statistical, qualitative, and geospatial data to support public dialogue during the national protests.
 
-- 🔬 Currently at **Institute of Intercultural Studies (IEI)**  
-- 🛰️ Specializing in geospatial analysis, dashboards & ML models  
-- ☕ Outside work: jazz enthusiast, quality coffee aficionado, and advocate of clean code  
+Previously, I led large-scale demographic and environmental studies and contributed to numerous policy- and community-oriented research initiatives.
 
 ---
+### 🌟 Interests & Personal Notes
 
-## 🛠 Professional Skills
-
-### 🧠 Languages & Libraries  
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-
-### 💻 Tools & Platforms  
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com) [![ArcGIS](https://img.shields.io/badge/ArcGIS-4479A1?style=for-the-badge&logo=esri&logoColor=white)](https://www.esri.com/arcgis) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org) [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://posit.co/products/open-source/rstudio) [![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-
-### 🛠 DevOps, Shell & Productivity  
-[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com) [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell) [![Zsh](https://img.shields.io/badge/Zsh-4E5B31?style=for-the-badge&logo=zsh&logoColor=white)](https://www.zsh.org) [![Git Bash](https://img.shields.io/badge/Git%20Bash-black?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
-
-### 📚 Other Expertise  
-LaTeX | Markdown | Excel | SPSS | SQL Server & Oracle | PostgreSQL | Notion | Jupyter Notebooks | Data cleaning & analysis | Reporting & dashboards
+- Co‑founder of **GitJazz**, blending data science, technology, and creative thinking  
+- Passionate about tech, fashion, and music (especially Bad Bunny 🎵)  
+- Proud advocate of curly hair care routines and a self-confessed sweets lover 🍬  
 
 ---
+### 🧑‍🤝‍🧑 For Colleagues & Collaborators
 
-## 📌 Where I Work & Organize
+I’m always open to lend a hand—whether it's reviewing analyses, refining code, or improving research design.
+
+Ask me about:
+- **📊 Statistical methodologies & geospatial modeling**  
+- **📈 Dashboard design & data storytelling**  
+- **🛠️ Reproducible research workflows (R, Python, Git)**  
+- **📚 Ethical data handling in rural development contexts**
+
+---
+### 🛠 Core Expertise
+
+I specialize in **advanced statistical modeling (R, Python)**, **geospatial analysis & dashboard development**, and **reproducible research workflows** in interdisciplinary contexts.
+
+---
+### 📌 Where I Work & Organize
 
 - 🏛️ Research environment: **IEI – Pontificia Universidad Javeriana Cali**
 
 ---
-
 📫 **Get in touch:** [ansalgold@icloud.com](mailto:ansalgold@icloud.com)
 
 ---
