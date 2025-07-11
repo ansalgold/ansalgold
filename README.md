@@ -43,4 +43,3 @@ I specialize in **advanced statistical modeling (R, Python)**, **geospatial anal
 📫 **Get in touch:** [ansalgold@icloud.com](mailto:ansalgold@icloud.com)
 
 ---
-
